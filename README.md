@@ -11,7 +11,7 @@ A passionate student with a strong background in Computer Science, currently stu
 
 ## Certifications & Achievements
 
-- **Fundamental Information Technology Engineer Examination**  
+- **Advanced Information Technology Engineer Examination**  
   *Japanese National Information Engineer Exam* - Tokyo, Japan  
   Date: July 16, 2023
 
